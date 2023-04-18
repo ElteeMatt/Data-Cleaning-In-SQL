@@ -119,6 +119,8 @@ From PortfolioProject.dbo.NashvilleHousing
 
 ---------------------------------------------------------------------------------------------------------------
 
+	----We are going to use SUB-STRINGS, SPLIT STRING CHARINDEX, CROSS APPLY & PIVOT
+
 use PortfolioProject
 
 Select OwnerAddress
